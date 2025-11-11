@@ -1,9 +1,8 @@
-#force new build
-streamlit
+# force rebuild
+streamlit==1.29.0
 ultralytics==8.0.196
 opencv-python-headless==4.7.0.72
-Pillow
-numpy
+Pillow==9.5.0
+numpy==1.24.3
 torch==2.0.1
 torchvision==0.15.2
-
